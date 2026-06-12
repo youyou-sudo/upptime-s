@@ -18,18 +18,6 @@ sites:
   - name: 鲲 Galgame Wiki
     url: https://wiki.kungal.com
     type: globalping
-  - name: Singureo
-    url: https://www.singureo.com
-    type: globalping
-  - name: Hikarinagi
-    url: https://www.hikarinagi.org
-    type: globalping
-  - name: KisuGal
-    url: https://www.kisuacg.moe
-    type: globalping
-  - name: TouchGal
-    url: https://www.touchgal.ink
-    type: globalping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
