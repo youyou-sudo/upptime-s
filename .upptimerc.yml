@@ -26,7 +26,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://files.catbox.moe/ejy8x6.webp
   name: Upptime
-  introTitle: "**Upptime-s**是开源的正常运行时间监控和状态页面，完全由 GitHub 提供支持."
+  introTitle: "**Upptime-s**是开源的正常运行时间监控和状态页面，完全由 GitHub & Globalping 提供支持."
   introMessage: 这是忧忧的站点健康度检测喵～❤️
   navbar:
     - title: Status
