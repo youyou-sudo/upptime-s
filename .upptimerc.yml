@@ -5,22 +5,31 @@ repo: upptime-s # The name of this repository
 sites:
   - name: 紫缘社
     url: https://galzy.moe
+    type: globalping
   - name: 紫缘社 - Search
     url: https://galzy.moe/search?q=clannad
+    type: globalping
   - name: 鲲 Galgame 论坛
     url: https://www.kungal.com
+    type: globalping
   - name: 鲲 Galgame OAuth
     url: https://oauth.kungal.com
+    type: globalping
   - name: 鲲 Galgame Wiki
     url: https://wiki.kungal.com
+    type: globalping
   - name: Singureo
     url: https://www.singureo.com
+    type: globalping
   - name: Hikarinagi
     url: https://www.hikarinagi.org
+    type: globalping
   - name: KisuGal
     url: https://www.kisuacg.moe
+    type: globalping
   - name: TouchGal
     url: https://www.touchgal.ink
+    type: globalping
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
