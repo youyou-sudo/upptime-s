@@ -4,18 +4,20 @@
     "url": "https://galzy.moe",
     "icon": "https://icons.duckduckgo.com/ip3/galzy.moe.ico",
     "slug": "紫缘社",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2566,
-    "timeDay": 4571,
-    "timeWeek": 2729,
-    "timeMonth": 2642,
-    "timeYear": 2566,
-    "dailyMinutesDown": {}
+    "time": 2552,
+    "timeDay": 3259,
+    "timeWeek": 2632,
+    "timeMonth": 2620,
+    "timeYear": 2552,
+    "dailyMinutesDown": {
+      "2026-07-17": 0
+    }
   },
   {
     "name": "紫缘社 - Search",
