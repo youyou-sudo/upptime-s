@@ -78,19 +78,20 @@
     "url": "https://wiki.kungal.com",
     "icon": "https://icons.duckduckgo.com/ip3/wiki.kungal.com.ico",
     "slug": "galgame-wiki",
-    "status": "up",
+    "status": "down",
     "uptime": "99.82%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "99.82%",
-    "time": 309,
-    "timeDay": 60,
-    "timeWeek": 659,
-    "timeMonth": 293,
-    "timeYear": 309,
+    "time": 304,
+    "timeDay": 61,
+    "timeWeek": 584,
+    "timeMonth": 286,
+    "timeYear": 304,
     "dailyMinutesDown": {
-      "2026-07-08": 94
+      "2026-07-08": 94,
+      "2026-07-18": 0
     }
   }
 ]
