@@ -4,20 +4,20 @@
     "url": "https://galzy.moe",
     "icon": "https://icons.duckduckgo.com/ip3/galzy.moe.ico",
     "slug": "紫缘社",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "98.63%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.76%",
-    "time": 2492,
-    "timeDay": 1521,
-    "timeWeek": 2230,
-    "timeMonth": 2580,
-    "timeYear": 2492,
+    "status": "up",
+    "uptime": "99.38%",
+    "uptimeDay": "84.98%",
+    "uptimeWeek": "96.49%",
+    "uptimeMonth": "99.19%",
+    "uptimeYear": "99.38%",
+    "time": 2491,
+    "timeDay": 1828,
+    "timeWeek": 2249,
+    "timeMonth": 2576,
+    "timeYear": 2491,
     "dailyMinutesDown": {
       "2026-07-17": 137,
-      "2026-07-21": 0
+      "2026-07-21": 216
     }
   },
   {
@@ -80,22 +80,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.kungal.com.ico",
     "slug": "galgame-wiki",
     "status": "down",
-    "uptime": "91.41%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "52.63%",
-    "uptimeMonth": "88.89%",
-    "uptimeYear": "91.41%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 75,
     "timeWeek": 65,
     "timeMonth": 280,
     "timeYear": 289,
-    "dailyMinutesDown": {
-      "2026-07-08": 94,
-      "2026-07-21": 688,
-      "2026-07-20": 1440,
-      "2026-07-19": 1440,
-      "2026-07-18": 1207
-    }
+    "dailyMinutesDown": {}
   }
 ]
