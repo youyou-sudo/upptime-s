@@ -65,9 +65,9 @@
     "url": "https://oauth.kungal.com",
     "icon": "https://icons.duckduckgo.com/ip3/oauth.kungal.com.ico",
     "slug": "galgame-o-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -77,7 +77,8 @@
     "timeMonth": 115,
     "timeYear": 299,
     "dailyMinutesDown": {
-      "2026-08-09": 27
+      "2026-08-09": 27,
+      "2026-09-13": 0
     }
   },
   {
@@ -86,11 +87,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/wiki.kungal.com.ico",
     "slug": "galgame-wiki",
     "status": "down",
-    "uptime": "38.67%",
+    "uptime": "38.53%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "38.67%",
+    "uptimeYear": "38.53%",
     "time": 284,
     "timeDay": 0,
     "timeWeek": 0,
@@ -98,7 +99,7 @@
     "timeYear": 284,
     "dailyMinutesDown": {
       "2026-07-08": 94,
-      "2026-09-13": 237,
+      "2026-09-13": 724,
       "2026-09-12": 1440,
       "2026-09-11": 1440,
       "2026-09-10": 1440,
